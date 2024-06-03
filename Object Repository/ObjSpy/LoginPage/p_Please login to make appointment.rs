@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Please login to make appointment</name>
+   <tag></tag>
+   <elementGuidId>aadac014-649b-4295-acd6-d2774a9972ff</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='login']/div/div/div/p[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.lead</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Please login to make appointment.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>8e438546-3590-423e-97ed-8b314812f18f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lead</value>
+      <webElementGuid>5247f521-7473-4a91-b3e3-d446646080d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please login to make appointment.</value>
+      <webElementGuid>2160f27d-9b3f-42b3-b73c-a96452f28ba5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 text-center&quot;]/p[@class=&quot;lead&quot;]</value>
+      <webElementGuid>fbe35233-4608-4875-b378-5b20afe3cc8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='login']/div/div/div/p</value>
+      <webElementGuid>157bb51a-35b5-4ee7-975c-fc90c19f4827</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/following::p[1]</value>
+      <webElementGuid>c443c71b-8e74-4c00-a16f-d9ff8c0a33c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[1]/following::p[1]</value>
+      <webElementGuid>eb323a1b-2dcc-46b0-87d3-8cd5c49e06a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demo account'])[1]/preceding::p[1]</value>
+      <webElementGuid>a94d25a9-c879-4d44-8efe-40f0af387147</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/preceding::p[1]</value>
+      <webElementGuid>5d1298a9-38e9-4d10-a3e5-9ce1bf1b57e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Please login to make appointment.']/parent::*</value>
+      <webElementGuid>be1d6ab0-7b2a-42ca-b650-aa904f84130a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>4094c73e-a6bc-4ab3-b76d-9b8c9f802757</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Please login to make appointment.' or . = 'Please login to make appointment.')]</value>
+      <webElementGuid>d3f44305-222a-496a-8978-565bf97adae5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

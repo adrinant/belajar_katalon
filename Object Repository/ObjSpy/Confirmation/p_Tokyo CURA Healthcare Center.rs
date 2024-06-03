@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Tokyo CURA Healthcare Center</name>
+   <tag></tag>
+   <elementGuidId>d0ac2564-e19d-4b09-a3ed-8b8bf6dae58e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#facility</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='facility']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Tokyo CURA Healthcare Center&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>3a9cb4a0-5bec-4b22-9bfd-e2b7200bb0f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>facility</value>
+      <webElementGuid>7cb2a5a4-ac92-4813-9a7a-4af89bba159e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tokyo CURA Healthcare Center</value>
+      <webElementGuid>d448c491-094a-4a17-a167-3a60dc2214d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;facility&quot;)</value>
+      <webElementGuid>1caa6b62-5fc4-465b-894c-58199d7023b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='facility']</value>
+      <webElementGuid>428392e5-9477-4e16-83bc-1362149092ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='summary']/div/div/div[2]/div[2]/p</value>
+      <webElementGuid>743214ee-d57a-4ccf-8d00-3bd25e1901d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facility'])[1]/following::p[1]</value>
+      <webElementGuid>60cf1512-7ceb-4ae1-8b86-80aad031be8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Appointment Confirmation'])[1]/following::p[2]</value>
+      <webElementGuid>9273a9e8-4e27-468f-87fd-655bbe0ac638</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply for hospital readmission'])[1]/preceding::p[1]</value>
+      <webElementGuid>bc3ae507-19d6-4483-879f-1ba92a4272a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Healthcare Program'])[1]/preceding::p[2]</value>
+      <webElementGuid>4a1ed252-a5fe-44c6-b532-5716e1bf2ebb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tokyo CURA Healthcare Center']/parent::*</value>
+      <webElementGuid>f4375277-ff21-4186-9427-7cf81ba5de3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>38e5389c-739d-4826-b597-7ce5e01397fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'facility' and (text() = 'Tokyo CURA Healthcare Center' or . = 'Tokyo CURA Healthcare Center')]</value>
+      <webElementGuid>19003c20-cc79-4541-8374-3e63ec936455</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

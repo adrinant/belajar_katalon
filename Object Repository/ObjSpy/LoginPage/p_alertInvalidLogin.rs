@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_alertInvalidLogin</name>
+   <tag></tag>
+   <elementGuidId>b1599014-dcec-43ea-9216-9ffe7c47ace9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='login']/div/div/div/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.lead.text-danger</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Login failed! Please ensure the username and password are valid.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>0aac570f-93a3-47eb-88f5-6634d2bed377</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lead text-danger</value>
+      <webElementGuid>738b4ca1-9b7a-459e-a734-cfed5c758e29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login failed! Please ensure the username and password are valid.</value>
+      <webElementGuid>7c9cd425-d372-4059-baba-aaf195aaa7dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 text-center&quot;]/p[@class=&quot;lead text-danger&quot;]</value>
+      <webElementGuid>e9ab8031-aeed-43a0-a0c2-1eeb26b9c0f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='login']/div/div/div/p[2]</value>
+      <webElementGuid>9700d81f-dc2f-44b2-a038-73ed7661efd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/following::p[2]</value>
+      <webElementGuid>50facb3c-615c-4b94-8aa5-bbf882dbb552</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[1]/following::p[2]</value>
+      <webElementGuid>277b0a73-0317-4733-ba8e-06883bfbb9bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demo account'])[1]/preceding::p[1]</value>
+      <webElementGuid>33be925e-b6c3-4b62-af85-345de013e0bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/preceding::p[1]</value>
+      <webElementGuid>74970a48-e68a-43b5-b449-0f763e9c2c64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Login failed! Please ensure the username and password are valid.']/parent::*</value>
+      <webElementGuid>edc91eaa-566a-488f-8cdb-3c3891c3ff42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>685f1926-fbdc-45db-9403-232254bd77d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Login failed! Please ensure the username and password are valid.' or . = 'Login failed! Please ensure the username and password are valid.')]</value>
+      <webElementGuid>8f3f5b48-e3fe-4757-a074-c80f01f14209</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
